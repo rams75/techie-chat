@@ -9,5 +9,6 @@ main() {
 	// subtraction: sairam
 	int p = 20, q = 10, r;
 	r = p -q;
-	// hey ramesh i did subtraction, hehe	
+	// hey ramesh i did subtraction, hehe 
+	// please be professional 
 }
